@@ -53,7 +53,7 @@ Os requisitos funcionais do sistema têm como meta:<br>
 <br>
 <hr>
 <br>
-<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="5"><p align="center">No Functional Requirements</p></font></b></H2>
+<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="5"><p align="center">Non-Functional Requirements</p></font></b></H2>
 <hr>
 
 <br>
