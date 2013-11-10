@@ -1,13 +1,3 @@
-#summary One-sentence summary of this page.
+||<a href="http://code.google.com/p/be-happy">Home</a>||<a href="https://code.google.com/p/be-happy/wiki/DescricaoDoProjeto">Descrição Do Sistema(Description)</a>||<a href="https://code.google.com/p/be-happy/wiki/Requisitos">Requisitos(Requirements)</a>||<a href="http://code.google.com/p/be-happy/wiki/Diagramas">Diagramas(Diagrams)</a>||<a href="https://code.google.com/p/be-happy/wiki/Docs">Docs</a>||||<a href="https://code.google.com/p/be-happy/wiki/Desenvolvedores">Equipe(Team)</a>||<a href="https://code.google.com/p/be-happy/wiki/Bibliografia">Bibliografia(Bibliography)</a>||||<a href="https://code.google.com/p/be-happy/wiki/Videos">Vídeos</a>||||<a href="https://code.google.com/p/be-happy/wiki/apk">Be Happy!.apk</a>||
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Em Breve!!
