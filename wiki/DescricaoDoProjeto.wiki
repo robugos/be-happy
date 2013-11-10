@@ -23,9 +23,10 @@
 <p align="JUSTIFY">Existem cerca de setenta milhões de autistas no mundo, segundo a ONU, o Be Happy! surge com a proposta de facilitar o processo de tratamento e aprendizagem das crianças autistas.</p>
 
 <p align="JUSTIFY">O tratamento do autismo é focado em três técnicas: Analise do Comportamento Aplicada (ABA), Picture Exchange Communication System (PECS) e o Método TEACCH.</p>
+<p align="JUSTIFY">
 •	O ABA se embasa em: Procedimentos de treino incidental, análises de tarefas, encadeamento, tentativas instrucionais embutidas em atividades e treino de tentativas discretas.<br>
 •	O PECS: Sistema baseado em figuras que refletem as necessidades e/ou o interesse individuais. Este sistema facilita tanto a comunicação quanto a compreensão, quando se estabelece a associação entre a atividade/símbolos.<br>
-•	TEACCH: Combina diferentes estímulos visuais e auditivos com o objetivo de aperfeiçoar a linguagem, melhorar o aprendizado e reduzir comportamentos inapropriados. Áreas, objetos, palavras, recipientes de cores diferentes e a fala do terapeuta são utilizados para instruir as crianças sobre suas atividades diárias de forma a emparelhar o símbolo com o respectivo objeto, local ou atividade no mundo real. <br>
+•	TEACCH: Combina diferentes estímulos visuais e auditivos com o objetivo de aperfeiçoar a linguagem, melhorar o aprendizado e reduzir comportamentos inapropriados. Áreas, objetos, palavras, recipientes de cores diferentes e a fala do terapeuta são utilizados para instruir as crianças sobre suas atividades diárias de forma a emparelhar o símbolo com o respectivo objeto, local ou atividade no mundo real.</p><br>
 
 <p align="JUSTIFY">(J Child Psychol Psychiatry)</p>
 
