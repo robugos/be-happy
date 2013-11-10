@@ -45,4 +45,19 @@ Os requisitos funcionais do sistema têm como meta:<br>
 <br>
 <hr>
 
+<h2><b><FONT FACE="TIMES" SIZE="5"><p align="CENTER">Functional Requirements</p></font></b></h2>
+<hr>
+
+<br>
+*Versão:0.01*
+<br>
+<hr>
+<br>
+<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="5"><p align="center">No Functional Requirements</p></font></b></H2>
+<hr>
+
+<br>
+<hr>
+
+
 <p align="center"><img src='http://static.tumblr.com/l1z3ey5/jqHlte56k/11714641799.png' alt="" title="" align="middle" />
