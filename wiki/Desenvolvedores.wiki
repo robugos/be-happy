@@ -1,6 +1,6 @@
 ||<a href="http://code.google.com/p/be-happy">Home</a>||<a href="https://code.google.com/p/be-happy/wiki/DescricaoDoProjeto">Descrição Do Sistema</a>||<a href="https://code.google.com/p/be-happy/wiki/Requisitos">Requisitos</a>||<a href="http://code.google.com/p/be-happy/wiki/Diagramas">Diagramas</a>||<a href="https://code.google.com/p/be-happy/wiki/Docs">Docs</a>||||<a href="https://code.google.com/p/be-happy/wiki/Desenvolvedores">Desenvolvedores</a>||<a href="https://code.google.com/p/be-happy/wiki/Bibliografia">Bibliografia</a>||||<a href="https://code.google.com/p/be-happy/wiki/Videos">Vídeos</a>||
 
-<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Desenvolvedores</p></font></b></H2>
+<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Equipe (Team)</p></font></b></H2>
 <hr>
 
 Carlos César Bezerra Fonseca (...)cc_bf@hotmail.com ;<br>
