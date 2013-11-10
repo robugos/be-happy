@@ -12,3 +12,5 @@ Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
+
+<p align="center"><img src='http://data1.whicdn.com/images/19536675/tumblr_lwct62TrZE1qafuwho1_500_original.jpg' alt="" title="" align="middle" />
