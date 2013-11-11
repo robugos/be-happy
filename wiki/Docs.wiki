@@ -3,9 +3,9 @@
 <H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Documentos Download</p></font></b></H2>
 <hr>
 
-<a href=" ">Proposta</a> <br>
-<a href=" ">SOA</a> <br>
-<a href=" ">Detalhamento SOA</a> <br>
+<a href="https://docs.google.com/document/d/1BvwmU0DfFsbiF356P4XOMcCE-Ok5eigBZP56RE04CGY/edit?usp=sharing">Proposta</a> <br>
+<a href="https://drive.google.com/file/d/0B5hIXVRKD54qakNFbVNCbWxGTzA/edit?usp=sharing">SOA</a> <br>
+<a href="https://docs.google.com/document/d/1p4TbLoXf7sF3yYj0BxVM4XKkDjEmCnVrLEaK1HKTQZE/edit?usp=sharing">Detalhamento SOA</a> <br>
 
 <br>
 
