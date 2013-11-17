@@ -60,7 +60,7 @@
 <hr>
 <H2><b><FONT FACE="TIMES" SIZE="5"><p align="center">Project Description</p></font></b></H2>
 <HR SIZE=1 WIDTH=100% COLOR="BLACK">
-<p align="JUSTIFY"></p>
+<p align="JUSTIFY">soon</p>
 <br>
 <hr>
 
