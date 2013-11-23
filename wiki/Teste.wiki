@@ -14,7 +14,7 @@
 <table border="1" cellspacing="6" cellpadding="6" width="595">
 <tr>
 <td align="middle" width="110" rowspan="6">
-<img src='http://www.peteletrica.eng.ufba.br/wp-content/uploads/2012/06/download.png' align="left" />
+<img src='http://i.imgur.com/xx33ThC.png' align="left" />
 </td>
 
 <td width="80%"> <a href="" rel="nofollow"> item 1 </a>
