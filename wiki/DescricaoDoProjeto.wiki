@@ -58,10 +58,6 @@
 
 <br>
 <hr>
-<H2><b><FONT FACE="TIMES" SIZE="5"><p align="center">Project Description</p></font></b></H2>
-<HR SIZE=1 WIDTH=100% COLOR="BLACK">
-<p align="JUSTIFY">soon</p>
-<br>
-<hr>
+
 
 <p align="center"><img src='http://i.imgur.com/Zzemjuf.jpg' alt="" title="" align="middle" />
