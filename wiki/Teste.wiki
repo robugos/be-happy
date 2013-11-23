@@ -1,0 +1,28 @@
+{{Sem-fontes|data=junho de 2012| }}
+{{Info/Evento
+|nome = Google I/O
+|nome_original =
+|imagem = 2008_Google_Input_and_Output_in_USA_-_the_Keynote.jpg
+|legenda = Primeira edição do Google I/O em 2008.
+|primeira edição = 28 e 29 de 2008
+|edição atual = 15 a 17 de maio de 2013
+|período = Anual
+|local = [[São Francisco]], [[Califórnia]], [[EUA]]
+|gênero =
+|classificação =
+|ingresso =
+|expectativa_público = 5000
+|acesso_deficiente =
+|idealizador(es) = [[Google]]
+|patrocínio =
+|realização = [[Google]]
+|site = [http://developers.google.com/events/io/ developers.google.com/events/io/]
+}}
+O '''Google I/O''' é uma conferência de programadores que é organizada anualmente pela Google em [[São Francisco (Califórnia)|São Francisco]], [[Califórnia]], [[Estados Unidos]]. O objetivo dessa conferência é orientar os programadores a melhorar seus programas com técnicas que a [[Google]] demonstra. Nessa conferência a [[Google]] também anuncia novos produtos.
+
+A conferência na maior parte do tempo fala mais de sistema operacional, principalmente do [[Android]].
+A primeira conferência do Google I/O foi organizada em 2008.
+
+{{Google}}
+{{esboço-evento}}
+[[Categoria:Google]]
