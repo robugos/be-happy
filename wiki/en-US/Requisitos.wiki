@@ -1,0 +1,63 @@
+||<a href="http://code.google.com/p/be-happy">Home</a>||<a href="https://code.google.com/p/be-happy/wiki/DescricaoDoProjeto">Descrição Do Sistema(Description)</a>||<a href="https://code.google.com/p/be-happy/wiki/Requisitos">Requisitos(Requirements)</a>||<a href="http://code.google.com/p/be-happy/wiki/Diagramas">Diagramas(Diagrams)</a>||<a href="https://code.google.com/p/be-happy/wiki/Docs">Docs</a>||||<a href="https://code.google.com/p/be-happy/wiki/Desenvolvedores">Equipe(Team)</a>||<a href="https://code.google.com/p/be-happy/wiki/Bibliografia">Bibliografia(Bibliography)</a>||||<a href="https://code.google.com/p/be-happy/wiki/Videos">Vídeos</a>||||<a href="https://code.google.com/p/be-happy/wiki/apk">Be Happy!.apk</a>||
+
+<h2><b><FONT FACE="TIMES" SIZE="5"><p align="CENTER">Be Happy!</p></font></b></h2>
+<hr>
+
+<h2><b><FONT FACE="TIMES" SIZE="5"><p align="CENTER">Requisitos Funcionais</p></font></b></h2>
+<hr>
+
+“São as declarações de serviços que o sistema deve fornecer, como o sistema deve reagir a entradas específicas e como o sistema deve se comportar em determinadas situações. Em alguns casos, os requisitos funcionais podem também estabelecer explicitamente o que o sistema não deve fazer.”<br>
+(Sommerville, Ian; Engenharia de Software, 2007, p. 80)<br>
+Os requisitos funcionais do sistema têm como meta:<br>
+•	RF001: ; <br>
+•	RF002: ; <br>
+•	RF003: ; <br>
+•	RF004: ; <br>
+•	RF005: ; <br>
+•	RF006: ; <br>
+•	RF007: ; <br>
+•	RF008: ; <br>
+•	RF009: ; <br>
+•	RF0010: ; <br>
+•	RF0011: ; <br>
+•	RF0012: ; <br>
+•	RF0013: ; <br>
+•	RF0014: ; <br>
+•	RF0015: ; <br>
+•	RF0016: . <br>
+<br>
+*Versão:0.01*
+<br>
+<hr>
+<br>
+<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="5"><p align="center">Requisitos Não Funcionais</p></font></b></H2>
+<hr>
+
+<p align="justify">“Os requisitos não funcionais, como o nome sugere, são aqueles não diretamente relacionados às funções específicas fornecidas pelo sistema. Eles podem estar relacionados às propriedades emergentes do sistema, como confiabilidade, tempo de resposta e espaço de armazenamento. Como alternativa, eles podem definir restrições, como a capacidade dos dispositivos de E/S (entrada/saída) e as representações de dados usadas nas interfaces do sistema.”</p>
+<p>(Sommerville, Ian; Engenharia de Software, 2007, p. 82)<br>
+<p>Os requisitos não-funcionais do sistema têm como meta:<br>
+•	RNF001: ; <br>
+•	RNF002: ; <br>
+•	RNF003: ; <br>
+•	RNF004: ; <br>
+•	RNF005: . <br>
+*Versão:0.01*
+<br>
+<hr>
+
+<h2><b><FONT FACE="TIMES" SIZE="5"><p align="CENTER">Functional Requirements</p></font></b></h2>
+<hr>
+
+<br>
+*Versão:0.01*
+<br>
+<hr>
+<br>
+<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="5"><p align="center">Non-Functional Requirements</p></font></b></H2>
+<hr>
+
+<br>
+<hr>
+
+
+<p align="center"><img src='http://static.tumblr.com/l1z3ey5/jqHlte56k/11714641799.png' alt="" title="" align="middle" />
