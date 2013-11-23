@@ -9,22 +9,18 @@
 “São as declarações de serviços que o sistema deve fornecer, como o sistema deve reagir a entradas específicas e como o sistema deve se comportar em determinadas situações. Em alguns casos, os requisitos funcionais podem também estabelecer explicitamente o que o sistema não deve fazer.”<br>
 (Sommerville, Ian; Engenharia de Software, 2007, p. 80)<br>
 Os requisitos funcionais do sistema têm como meta:<br>
-•	RF001: ; <br>
-•	RF002: ; <br>
-•	RF003: ; <br>
-•	RF004: ; <br>
-•	RF005: ; <br>
-•	RF006: ; <br>
-•	RF007: ; <br>
-•	RF008: ; <br>
-•	RF009: ; <br>
-•	RF0010: ; <br>
-•	RF0011: ; <br>
-•	RF0012: ; <br>
-•	RF0013: ; <br>
-•	RF0014: ; <br>
-•	RF0015: ; <br>
-•	RF0016: . <br>
+•	RF001: Configurar preferências por cores; <br>
+•	RF002: Configurar preferências por fontes; <br>
+•	RF003: Visualizar cartas do Fale Comigo; <br>
+•	RF004: Escolher carta do Fale Comigo; <br>
+•	RF005: Visualizar desafio Forca Animal; <br>
+•	RF006: Responder desafio Forca Animal; <br>
+•	RF007: Visualizar Jogo da Memória; <br>
+•	RF008: Escolher cartas do Jogo da Memória; <br>
+•	RF009: Integrar jogos e desafios com as redes sociais; <br>
+•	RF0010: Preencher formulário de Diagnóstico; <br>
+•	RF0011: Enviar formulário de Diagnóstico; <br>
+•	RF0012: Ler notícias no feed. <br>
 <br>
 *Versão:0.01*
 <br>
@@ -36,11 +32,13 @@ Os requisitos funcionais do sistema têm como meta:<br>
 <p align="justify">“Os requisitos não funcionais, como o nome sugere, são aqueles não diretamente relacionados às funções específicas fornecidas pelo sistema. Eles podem estar relacionados às propriedades emergentes do sistema, como confiabilidade, tempo de resposta e espaço de armazenamento. Como alternativa, eles podem definir restrições, como a capacidade dos dispositivos de E/S (entrada/saída) e as representações de dados usadas nas interfaces do sistema.”</p>
 <p>(Sommerville, Ian; Engenharia de Software, 2007, p. 82)<br>
 <p>Os requisitos não-funcionais do sistema têm como meta:<br>
-•	RNF001: ; <br>
-•	RNF002: ; <br>
-•	RNF003: ; <br>
-•	RNF004: ; <br>
-•	RNF005: . <br>
+•	RNF001: Durante a fase de beta-testes, a interface deve ser considerada amigável por 80% dos usuários envolvidos nos testes; <br>
+•	RNF002: O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com não mais que 2% do tempo com o sistema fora do ar; <br>
+•	RNF003: A linguagem de programação usada como padrão deve ser o JAVA; <br>
+•	RNF004: A linguagem de interface deve ser o XML; <br>
+•	RNF005: A linguagem para conexão remota será o PHP; <br>
+•	RNF006: O script do banco será o SQL, relacionado ao SqLite, para o banco local. E para o remoto o PhpMyAdimin; <br>
+•	RNF007: O sistema será arquitetado de forma flexível seguindo a SOA. <br>
 *Versão:0.01*
 <br>
 <hr>
