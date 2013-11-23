@@ -1,3 +1,1 @@
 <wiki:gadget url="http://www.freegaming.de/XML/9625.xml" height="545" width="610" /> 
-
-<script src="//www.gmodules.com/ig/ifr?url=http://www.freegaming.de/XML/9625.xml&amp;synd=open&amp;w=545&amp;h=810&amp;title=Scooby+Doo+Memory+Challenge&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
