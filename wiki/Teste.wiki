@@ -8,3 +8,16 @@
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://autismoamor.blogspot.com/feeds/posts/default"  width="500" height="340" border="0"/>
 
 <wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://www.estouautista.com.br/index.php/feed/"  width="500" height="340" border="0"/>
+
+<hr>
+
+<table border="1" cellspacing="6" cellpadding="6" width="595">
+<tr>
+<td align="middle" width="110" rowspan="6">
+<strong>Teste</strong>
+</td>
+
+<td width="80%"> <a href="" rel="nofollow"> item 1 </a>
+</td>
+<tr>
+<td width="80%"> <a href="" rel="nofollow">Item 2</a> </td> </tr><tr> <td width="80%"> <a href="" rel="nofollow"> Item 3 </a> </td> </tr><tr> <td width="80%"> <a href="" rel="nofollow"> Item 4 </a> </td> </tr><tr> <td width="80%"> <a href="" rel="nofollow"> Item 5 </a> </td> </tr> </tr> <tr> <td width="80%"> <a href="" rel="nofollow"> Item 6 </a> </td> </tr><table>
