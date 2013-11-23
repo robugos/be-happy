@@ -11,13 +11,13 @@
 
 <hr>
 
-<table border="1" cellspacing="6" cellpadding="6" width="595">
+<table border="1" cellspacing="4" cellpadding="4" width="595">
 <tr>
-<td align="middle" width="110" rowspan="6">
+<td align="middle" width="110" rowspan="4">
 <img src='http://i.imgur.com/xx33ThC.png' align="left" />
 </td>
 
 <td width="80%"> <a href="" rel="nofollow"> item 1 </a>
 </td>
 <tr>
-<td width="80%"> <a href="" rel="nofollow">Item 2</a> </td> </tr><tr> <td width="80%"> <a href="" rel="nofollow"> Item 3 </a> </td> </tr><tr> <td width="80%"> <a href="" rel="nofollow"> Item 4 </a> </td> </tr><tr> <td width="80%"> <a href="" rel="nofollow"> Item 5 </a> </td> </tr> </tr> <tr> <td width="80%"> <a href="" rel="nofollow"> Item 6 </a> </td> </tr><table>
+<td width="80%"> <a href="" rel="nofollow">Item 2</a> </td> </tr><tr> <td width="80%"> <a href="" rel="nofollow"> Item 3 </a> </td> </tr><tr> <td width="80%"> <a href="" rel="nofollow"> Item 4 </a> </td> </tr><tr> <table>
