@@ -3,13 +3,16 @@
 <H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Documentos para Downlaod</p></font></b></H2>
 <hr>
 
-<a href="https://drive.google.com/file/d/0B5hIXVRKD54qMU5EWmhmVnN4Ylk/edit?usp=sharing">Proposta do Projeto Be Happy!</a> <br>
+<table border="1" cellspacing="4" cellpadding="4" width="595">
+<tr>
+<td align="middle" width="110" rowspan="4">
+<img src='http://i.imgur.com/xx33ThC.png' align="left" />
+</td>
 
-<a href="https://drive.google.com/file/d/0B5hIXVRKD54qakNFbVNCbWxGTzA/edit?usp=sharing">SOA</a> <br>
-
-<a href="">Casos de Uso</a> <br>
-
-<a href="">Diagrama de Casos de Uso</a> <br>
+<td width="80%"> <a href="https://drive.google.com/file/d/0B5hIXVRKD54qMU5EWmhmVnN4Ylk/edit?usp=sharing" rel="nofollow">Proposta do Projeto Be Happy!</a>
+</td>
+<tr>
+<td width="80%"> <a href="https://drive.google.com/file/d/0B5hIXVRKD54qakNFbVNCbWxGTzA/edit?usp=sharing" rel="nofollow">SOA</a> </td> </tr><tr> <td width="80%"> <a href="" rel="nofollow"> Casos de Uso </a> </td> </tr><tr> <td width="80%"> <a href="" rel="nofollow"> Diagrama de Casos de Uso </a> </td> </tr><tr> <table>
 
 <br>
 
