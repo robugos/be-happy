@@ -21,7 +21,7 @@
 <H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Itens de Configuração</p></font></b></H2>
 <hr>
 <a href="https://code.google.com/p/be-happy/wiki/Requisitos">Requisitos</a> <br>
-<a href=" ">SCRUM</a> <br>
+<a href="https://code.google.com/p/be-happy/wiki/SCRUM">SCRUM (Gerenciamento de Metodologias)</a> <br>
 <a href=" ">Proposta Inicial</a> <br>
 <br>
 <hr>
