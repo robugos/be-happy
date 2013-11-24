@@ -18,30 +18,19 @@
 
 <hr>
 
-<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Requisitos</p></font></b></H2>
+<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Itens de Configuração</p></font></b></H2>
 <hr>
 <a href="https://code.google.com/p/be-happy/wiki/Requisitos">Requisitos</a> <br>
-
 <br>
-
 <hr>
 
-<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Diagramas</p></font></b></H2>
-<hr>
-<a href=""> Diagrama de Casos de Uso</a> <br>
-<a href="https://drive.google.com/file/d/0B5hIXVRKD54qakNFbVNCbWxGTzA/edit?usp=sharing">SOA</a> <br>
 
-
-<br>
-
-<hr>
 
 <H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Para Desenvolvedores</p></font></b></H2>
 <hr>
 <a href=" ">...</a> <br>
 
 <br>
-
 <hr>
 
 
