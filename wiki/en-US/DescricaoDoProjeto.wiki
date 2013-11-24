@@ -23,9 +23,9 @@ There are about seventy million autistic worldwide, according to the UN, Be Happ
 
 The Autism Treatment is focused on three techniques : Applied Behavior Analysis ( ABA ) , Picture Exchange Communication System ( PECS ) and the TEACCH method .
 
-• The ABA was grounded in : Proceedings of incidental teaching , task analysis , chaining , instructional trials embedded in activities and discrete trial training .
-• The PECS : System based on figures that reflect the needs and / or the individual interest. This system facilitates both communication and understanding , when establishing the association between the activity / symbols .
-• TEACCH : Combine different visual and auditory stimuli with the objective of improving the language , improve learning and reduce inappropriate behaviors . Areas , objects , words , containers of different colors and speech therapist are used to educate children about their daily activities in order to match the symbol with its object , location or activity in the real world .
+The ABA was grounded in : Proceedings of incidental teaching , task analysis , chaining , instructional trials embedded in activities and discrete trial training .
+The PECS : System based on figures that reflect the needs and / or the individual interest. This system facilitates both communication and understanding , when establishing the association between the activity / symbols .
+TEACCH : Combine different visual and auditory stimuli with the objective of improving the language , improve learning and reduce inappropriate behaviors . Areas , objects , words , containers of different colors and speech therapist are used to educate children about their daily activities in order to match the symbol with its object , location or activity in the real world .
 
 ( J Child Psychol Psychiatry )
 
@@ -33,22 +33,22 @@ The Be Happy ! with their games and aims to meet challenges to aspects of these 
 
 The development of this system is also important to serve as a basis for developing other software to help children who suffer from some of the five pervasive developmental disorders :
 
-• Autism , the best known ;
-• Rett Syndrome ;
-• Childhood disintegrative disorder syndrome ( Heller ) ;
-• Asperger Syndrome ;
-• Global developmental disorder not otherwise specified , which includes (or is also known as ) atypical autism .
+Autism , the best known ;
+Rett Syndrome ;
+Childhood disintegrative disorder syndrome ( Heller ) ;
+Asperger Syndrome ;
+Global developmental disorder not otherwise specified , which includes (or is also known as ) atypical autism .
 ( National Dissemination Center for Children with Disabilities )
 
 The Be Happy ! still aims to meet the five trends in the technology market over the coming decades . It works on mobile platforms such as smart phones and tablets ; Visa using social media both as family communication with physicians , but also for the child to publish progress on social networks , the use of cloud computing for storage and shipping information ; consumerization of IT , one thought and facing the consumer application ; Big Data with an emphasis on treatment and accumulation of data.
 
 Important data to ratify the social and economic importance of the application:
 
-• 1 in 50 children has autism , according to data released less than a month by the CDC ( Center for Disease Control and Prevention ) U.S. .
-• " It is estimated that 90 % of Brazilians with autism have not been diagnosed Lack of information : . Ever awareness campaign was made in the country," says psychiatrist Stephen Vadasz , coordinator of Autistic Spectrum Disorders , Institute of Psychiatry , HC of São Paulo .
-• Brazil has about 2 million children with autism ( News terra.com.br ) ;
-• Brazil can have up to a million autistic undiagnosed ( vidasaudavel_autismo )
-• In the world according to the UN , believed to be more than 70 million people with autism , affecting how these individuals communicate and interact . The incidence is higher in males , with a ratio of four boys for a girl with autism .
+1 in 50 children has autism , according to data released less than a month by the CDC ( Center for Disease Control and Prevention ) U.S. .
+" It is estimated that 90 % of Brazilians with autism have not been diagnosed Lack of information : . Ever awareness campaign was made in the country," says psychiatrist Stephen Vadasz , coordinator of Autistic Spectrum Disorders , Institute of Psychiatry , HC of São Paulo .
+Brazil has about 2 million children with autism ( News terra.com.br ) ;
+Brazil can have up to a million autistic undiagnosed ( vidasaudavel_autismo )
+In the world according to the UN , believed to be more than 70 million people with autism , affecting how these individuals communicate and interact . The incidence is higher in males , with a ratio of four boys for a girl with autism .
 By analyzing these data can ratify the social and economic impact of Be Happy ! . The system defaults languages ??are Portuguese and English , thus making the software has a worldwide reach . Is also important to note that the Be Happy ! will be a system to aid in the detection of autism , leading to interest from other families , even if they lack the same autistic . By autism it is a serious disorder that leads to the isolation of the child including , Be Happy app! will be very interesting for family , friends , medical and educational institutions dealing with autism .
 
 Finally it is worth noting that the Be Happy ! will also serve as the basis for other diseases that involve the pervasive developmental disorders .</p>
