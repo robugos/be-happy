@@ -1,24 +1,31 @@
 ||<a href="http://code.google.com/p/be-happy">Home</a>||<a href="https://code.google.com/p/be-happy/wiki/DescricaoDoProjeto">Project Description</a>||<a href="https://code.google.com/p/be-happy/wiki/Docs">Files</a>||<a href="https://code.google.com/p/be-happy/wiki/Desenvolvedores">Team</a>||<a href="https://code.google.com/p/be-happy/wiki/Bibliografia">Bibliography</a>||||<a href="https://code.google.com/p/be-happy/wiki/Videos">Videos</a>||||<a href="https://code.google.com/p/be-happy/wiki/apk">Be Happy!.apk</a>||
 
-<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Download Files</p></font></b></H2>
+<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Downlaod Files</p></font></b></H2>
 <hr>
 
-<a href="https://drive.google.com/file/d/0B5hIXVRKD54qMU5EWmhmVnN4Ylk/edit?usp=sharing">Proposta do Projeto Be Happy!</a> <br>
+<table border="1" cellspacing="4" cellpadding="4" width="595">
+<tr>
+<td align="middle" width="110" rowspan="4">
+<img src='http://i.imgur.com/xx33ThC.png' align="left" />
+</td>
 
-<a href="https://drive.google.com/file/d/0B5hIXVRKD54qakNFbVNCbWxGTzA/edit?usp=sharing">SOA</a> <br>
+<td width="80%"> <a href="https://drive.google.com/file/d/0B5hIXVRKD54qMU5EWmhmVnN4Ylk/edit?usp=sharing" rel="nofollow">Project Proposal Be Happy!</a>
+</td>
+<tr>
+<td width="80%"> <a href="https://drive.google.com/file/d/0B5hIXVRKD54qakNFbVNCbWxGTzA/edit?usp=sharing" rel="nofollow">SOA</a> </td> </tr><tr> <td width="80%"> <a href="" rel="nofollow"> Casos de Uso </a> </td> </tr><tr> <td width="80%"> <a href="" rel="nofollow"> Diagrama de Casos de Uso </a> </td> </tr><tr> <table>
 
 <br>
 
 <hr>
 
-<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Files</p></font></b></H2>
+<H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Configuration Items</p></font></b></H2>
 <hr>
-<a href=" ">Detalhamento</a> <br>
-<a href=" ">...</a> <br>
-
+<a href="https://code.google.com/p/be-happy/wiki/Requisitos">Requirements</a> <br>
+<a href="https://code.google.com/p/be-happy/wiki/SCRUM">SCRUM (Management Methodologies)</a> <br>
+<a href=" ">Initial proposal</a> <br>
 <br>
-
 <hr>
+
 
 
 <p align="center"><img src='http://static.tumblr.com/l1z3ey5/jqHlte56k/11714641799.png' alt="" title="" align="middle" />
