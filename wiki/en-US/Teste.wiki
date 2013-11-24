@@ -1,10 +1,1 @@
-<wiki:gadget url="http://www.freegaming.de/XML/9625.xml" height="545" width="610" /> 
-
-<g:plusone size="medium"></g:plusone>
-
-
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://google-code-featured.blogspot.com/atom.xml"  width="500" height="340" border="0"/>
-
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://autismoamor.blogspot.com/feeds/posts/default"  width="500" height="340" border="0"/>
-
-<wiki:gadget url="http://google-code-feed-gadget.googlecode.com/svn/trunk/gadget.xml" up_feeds="http://www.estouautista.com.br/index.php/feed/"  width="500" height="340" border="0"/>
+*Page toward testing new features!*
