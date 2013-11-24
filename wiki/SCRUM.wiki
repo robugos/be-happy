@@ -6,7 +6,6 @@
 <p align="JUSTIFY">Para o desenvolvimento do sistema Be Happy! Foram escolhidas as seguintes metodologias de desenvolvimento: Modelo Espiral e o Modelo Ágil.
 
 *Para o gerenciamento de ambas as metodologias será usada a ferramenta Scrumy.com.* </P>
-<br>
 
 <H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Modelo Espiral</p></font></b></H2>
 <hr>
