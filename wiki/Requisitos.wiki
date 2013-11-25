@@ -34,7 +34,7 @@ Os requisitos funcionais do sistema têm como meta:<br>
 <p>(Sommerville, Ian; Engenharia de Software, 2007, p. 82)<br>
 <p>Os requisitos não-funcionais do sistema têm como meta:<br>
 
-•	RNF001: Durante a fase de beta-testes, a interface deve ser considerada amigável por 80% dos usuários envolvidos nos testes; <br>
+•	RNF001: Durante a fase de beta-testes, a interface deve ser considerada amigável por 70% dos usuários envolvidos nos testes; <br>
 •	RNF002: O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com não mais que 2% do tempo com o sistema fora do ar; <br>
 •	RNF003: A linguagem de programação usada como padrão deve ser o JAVA; <br>
 •	RNF004: A linguagem de interface deve ser o XML; <br>
