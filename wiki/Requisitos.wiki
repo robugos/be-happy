@@ -14,8 +14,8 @@ Os requisitos funcionais do sistema têm como meta:<br>
 •	RF002: Configurar preferências por fontes; <br>
 •	RF003: Visualizar cartas do Fale Comigo; <br>
 •	RF004: Escolher carta do Fale Comigo; <br>
-•	RF005: Visualizar desafio Forca Animal; <br>
-•	RF006: Responder desafio Forca Animal; <br>
+•	RF005: Visualizar Desafio Animal; <br>
+•	RF006: Responder Desafio Animal; <br>
 •	RF007: Visualizar Jogo da Memória; <br>
 •	RF008: Escolher cartas do Jogo da Memória; <br>
 •	RF009: Integrar jogos e desafios com as redes sociais; <br>
@@ -39,7 +39,7 @@ Os requisitos funcionais do sistema têm como meta:<br>
 •	RNF003: A linguagem de programação usada como padrão deve ser o JAVA; <br>
 •	RNF004: A linguagem de interface deve ser o XML; <br>
 •	RNF005: A linguagem para conexão remota será o PHP; <br>
-•	RNF006: O script do banco será o SQL, relacionado ao SqLite, para o banco local. E para o remoto o PhpMyAdimin; <br>
+•	RNF006: O script do banco será o SQL, relacionado ao SqLite, para o banco local. E para o remoto o MySQL WorkBranch.; <br>
 •	RNF007: O sistema será arquitetado de forma flexível seguindo a SOA. <br>
 
 *Versão:0.01*
