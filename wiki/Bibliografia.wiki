@@ -4,9 +4,9 @@
 <hr>
 
 
-<p>1.	Sommerville, Ian. Requisitos de software. In: Ian Sommerville(Org.). Engenharia de Software. São Paulo: Pearson Addison - Wesley, 2007, p. 79-82.<br>
+1.	Sommerville, Ian. Requisitos de software. In: Ian Sommerville(Org.). Engenharia de Software. São Paulo: Pearson Addison - Wesley, 2007, p. 79-82.<br>
 
-<p>2.	Booch, Grady; Rumbaugh, James; Jacobson, Ivar; Casos de uso; Diagrama de casos de uso. IN: Booch, Grady; Rumbaugh, James; Jacobson, Ivar(Org.). UML: Guia do Usuário. Rio de Janeiro: Elsevier, 2005, p. 227-242.<br>
+2.	Booch, Grady; Rumbaugh, James; Jacobson, Ivar; Casos de uso; Diagrama de casos de uso. IN: Booch, Grady; Rumbaugh, James; Jacobson, Ivar(Org.). UML: Guia do Usuário. Rio de Janeiro: Elsevier, 2005, p. 227-242.<br>
 
 <p>3. SCHWARTZMAN, José Salomão (16 de Setembro de 2010). Autismo e outros transtornos do espectro autista. Revista Autismo, edição de setembro de 2010.<br>
 
