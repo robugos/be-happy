@@ -38,6 +38,23 @@
 
 <p>17. Raghu R. Kodali. What is service-oriented architecture<br>
 
+<p>18. GartnerGroup <br>
+
+<p>19. Sommerville, Ian; Engenharia de Software, 2007, p. 80 <br>
+
+<p>20. Sommerville, Ian; Engenharia de Software, 2007, p. 82 <br>
+
+<p>21. http://pt.wikipedia.org/wiki/Metodologia_(engenharia_de_software)<br>
+
+<p>22. http://pt.wikipedia.org/wiki/Modelo_em_espiral <br>
+
+<p>23. http://pt.wikipedia.org/wiki/Desenvolvimento_%C3%A1gil_de_software <br>
+
+<p>24. 
+
+
+
+
 
 <br>
 <hr>
