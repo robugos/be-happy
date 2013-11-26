@@ -38,7 +38,7 @@
 
 <p>17. Raghu R. Kodali. What is service-oriented architecture<br>
 
-<p>18. GartnerGroup<br>
+<p>18. GartnerGroup. <br>
 
 <p>19. Sommerville, Ian; Engenharia de Software, 2007, p. 80 <br>
 
