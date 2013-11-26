@@ -1,7 +1,2 @@
 *Página voltada para testes de novas funcionalidades!*
 
-
-<wiki:gadget url="http://hosting.gmodules.com/ig/gadgets/file/114106773607558272009/share.xml" height="200" border="0" /> 
-
-<wiki:gadget url="http://likesbox.com/igoogle/facebooklikebutton.xml" height="200" border="0" />
-
