@@ -3,7 +3,7 @@
 <H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="3"><p align='center'>Bibliografia</p></font></b></H2>
 <hr>
 
-<p align="JUSTIFY">
+
 1.Sommerville, Ian. Requisitos de software. In: Ian Sommerville(Org.). Engenharia de Software. São Paulo: Pearson Addison - Wesley, 2007, p. 79-82.<br>
 
 2.Booch, Grady; Rumbaugh, James; Jacobson, Ivar; Casos de uso; Diagrama de casos de uso. IN: Booch, Grady; Rumbaugh, James; Jacobson, Ivar(Org.). UML: Guia do Usuário. Rio de Janeiro: Elsevier, 2005, p. 227-242.<br>
@@ -50,7 +50,7 @@
 
 23. http://pt.wikipedia.org/wiki/Desenvolvimento_%C3%A1gil_de_software <br>
 
-</p>
+
 
 
 
