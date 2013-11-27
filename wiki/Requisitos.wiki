@@ -10,9 +10,10 @@
 (Sommerville, Ian; Engenharia de Software, 2007, p. 80)<br>
 Os requisitos funcionais do sistema têm como meta:<br>
 
-•	*RF001*: Configurar preferências por cores; <br>
-                 Descrição : O sistema deve permitir que o usuário configure o aplicativo de acordo com a sua preferência de cor.
-•	*RF002*: Configurar preferências por fontes; <br>
+•	*RF001*: Configurar preferências por cores; 
+                 Descrição : O sistema deve permitir que o usuário configure o aplicativo de acordo com a sua preferência de cor.<br>
+•	*RF002*: Configurar preferências por fontes; 
+                 Descrição: O usuário poderá selecionar a opção de fonte que mais lhe agradar.<br>
 •	*RF003*: Visualizar cartas do Fale Comigo; <br>
 •	*RF004*: Escolher carta do Fale Comigo; <br>
 •	*RF005*: Visualizar Desafio Animal; <br>
