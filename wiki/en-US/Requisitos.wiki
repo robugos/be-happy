@@ -6,40 +6,40 @@
 <h2><b><FONT FACE="TIMES" SIZE="5"><p align="CENTER">Functional Requirements</p></font></b></h2>
 <hr>
 
-“Are statements of services the system should provide, how the system should react to particular inputs and how the system should behave in particular situations. In some cases, functional requirements may also explicitly state what the system should do.”<br>
+â€œAre statements of services the system should provide, how the system should react to particular inputs and how the system should behave in particular situations. In some cases, functional requirements may also explicitly state what the system should do.â€�<br>
 (Sommerville, Ian; Engenharia de Software, 2007, p. 80)<br>
 The functional requirements of the system aim to:<br>
-• FR001: Setting preferences for colors;<br>
-• FR002: Setting preferences for sources;<br>
-• FR003: Display charts Contact Me;<br>
-• FR004: Choose the letter Contact Me;<br>
-• FR005: View Challenge Animal Hangman;<br>
-• FR006: Reply Challenge Animal Hangman;<br>
-• FR007: Game Show of Memory;<br>
-• FR008: Choose the Memory Game cards;<br>
-• FR009: Integrating games and challenges with social networks;<br>
-• FR0010: Populate form Diagnosis;<br>
-• FR0011: Submit form Diagnostics;<br>
-• FR0012: Read the news feed.<br>
+â€¢ FR001: Setting preferences for colors;<br>
+â€¢ FR002: Setting preferences for sources;<br>
+â€¢ FR003: Display charts Contact Me;<br>
+â€¢ FR004: Choose the letter Contact Me;<br>
+â€¢ FR005: View Challenge Animal Hangman;<br>
+â€¢ FR006: Reply Challenge Animal Hangman;<br>
+â€¢ FR007: Game Show of Memory;<br>
+â€¢ FR008: Choose the Memory Game cards;<br>
+â€¢ FR009: Integrating games and challenges with social networks;<br>
+â€¢ FR0010: Populate form Diagnosis;<br>
+â€¢ FR0011: Submit form Diagnostics;<br>
+â€¢ FR0012: Read the news feed.<br>
 <br>
-*Versão:0.01*
+*VersÃ£o:0.01*
 <br>
 <hr>
 <br>
 <H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="5"><p align="center">Non-Functional Requirements</p></font></b></H2>
 <hr>
 
-<p align="justify">“Non-functional requirements , as the name suggests , are those not directly related to the specific functions provided by the system . They may be related to the emergent properties of the system , such as reliability , response time and storage space . Alternatively , they can set restrictions , the ability of the I / O (input / output ) and data representations used in system interfaces devices.”</p>
+<p align="justify">â€œNon-functional requirements , as the name suggests , are those not directly related to the specific functions provided by the system . They may be related to the emergent properties of the system , such as reliability , response time and storage space . Alternatively , they can set restrictions , the ability of the I / O (input / output ) and data representations used in system interfaces devices.â€�</p>
 <p>(Sommerville, Ian; Engenharia de Software, 2007, p. 82)<br>
 <p>Non - functional requirements of the system aim to:<br>
-• NFR001 : During the beta- testing , the interface should be considered friendly by 80% of users involved in testing ;<br>
-• NFR002 : The system must be available 24 hours a day, 7 days a week , with no more than 2 % of the time with the system off the air ;<br>
-• NFR003 : The programming language used should be the default JAVA ;<br>
-• NFR004 : The interface language should be XML ;<br>
-• NFR005 : A language for remote connection is PHP ;<br>
-• NFR006 : The script of the database will be SQL , SQLite related to the local bank. And for the remote PhpMyAdimin ;<br>
-• NFR007 : The system will be engineered flexibly following the SOA .<br>
-*Versão:0.01*
+â€¢ NFR001 : During the beta- testing , the interface should be considered friendly by 80% of users involved in testing ;<br>
+â€¢ NFR002 : The system must be available 24 hours a day, 7 days a week , with no more than 2 % of the time with the system off the air ;<br>
+â€¢ NFR003 : The programming language used should be the default JAVA ;<br>
+â€¢ NFR004 : The interface language should be XML ;<br>
+â€¢ NFR005 : A language for remote connection is PHP ;<br>
+â€¢ NFR006 : The script of the database will be SQL , SQLite related to the local bank. And for the remote MySQL Work Branch ;<br>
+â€¢ NFR007 : The system will be engineered flexibly following the SOA .<br>
+*VersÃ£o:0.01*
 <br>
 <hr>
 
