@@ -34,8 +34,8 @@ The functional requirements of the system aim to:<br>
 • *FR0012*: Game Show of Memory;<br>
                   Description : The user can visualize the layout of the cards Memory Game<br>
 • *FR0013*: Choose the Memory Game cards;<br>
-                  Description : Development of the game Memory Game <br>.
-• *FR0014*: Include games and challenges with social networks;
+                  Description : Development of the game Memory Game <br>
+• *FR0014*: Include games and challenges with social networks;<br>
                   Description : The system should allow the user to share your game status on social networks <br>
 • *FR0015*: Read the news feed;<br>
                   Description : The user can read the news related to autism sites<br>
