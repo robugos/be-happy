@@ -9,39 +9,39 @@
 "These are statements of services the system should provide, how the system should react to particular inputs and how the system should behave in particular situations. In some cases, functional requirements may also explicitly state what the system should do. "<br>
 (Sommerville, Ian; Software Engineering, 2007, p. 80)<br>
 The functional requirements of the system aim to:<br>
-• *FR001*: Log in ;
+• *FR001*: Log in;<br>
                  Description : The system should allow the user to perform the login <br>
-• *FR002*: Register user responsible ;
+• *FR002*: Register user responsible;<br>
                  Description : The system should allow the user responsible conduct your registration <br>
-• *FR003*: Register user dependent ;
+• *FR003*: Register user dependent;<br>
                  Description : The system should allow the user responsible register one (or more) user dependent <br>
-• *FR004*: Cancel registration ;
+• *FR004*: Cancel registration;<br>
                  Description : The system should allow the user (responsible ) may cancel your registration and your dependents at any time.<br>
-• *FR005*: Change register;
+• *FR005*: Change register;<br>
                  Description : The system should allow the user (responsible ) can change your registration and your dependents at any time <br> 
-• *FR006*: Set preference for colors ;
+• *FR006*: Set preference for colors;<br>
                  Description : The system should allow the user to configure the application according to your color preference.<br>
-• *FR007*: Setting preferences for source ;
+• *FR007*: Setting preferences for source;<br>
                  Description : The user may choose a font that suits you<br>
-• *FR008*: Display charts Contact Me ;
+• *FR008*: Display charts Contact Me;<br>
                  Description : The user can view all options of the letter Contact Me module.<br>
-• *FR009*: Choose the letter Contact Me ;
+• *FR009*: Choose the letter Contact Me;<br>
                  Description : The user can choose letter from Contact Me.<br>
-• *FR0010*: Animal Challenge Show ;
+• *FR0010*: Animal Challenge Show;<br>
                   Description : View the options screen figures of Animal Challenge<br>
-• *FR0011*: Reply Challenge Animal;
+• *FR0011*: Reply Challenge Animal;<br>
                   Description : The user can respond to the Animal Challenge<br>
-• *FR0012*: Game Show of Memory ;
+• *FR0012*: Game Show of Memory;<br>
                   Description : The user can visualize the layout of the cards Memory Game<br>
-• *FR0013*: Choose the Memory Game cards ;
+• *FR0013*: Choose the Memory Game cards;<br>
                   Description : Development of the game Memory Game <br>.
 • *FR0014*: Include games and challenges with social networks;
                   Description : The system should allow the user to share your game status on social networks <br>
-• *FR0015*: Read the news feed ;
+• *FR0015*: Read the news feed;<br>
                   Description : The user can read the news related to autism sites<br>
-• *FR0016*: Fill form Diagnosis ;
+• *FR0016*: Fill form Diagnosis;<br>
                   Description : System shall allow the user to answer the form diagnostic<br>
-• *FR0017*: Send form by email diagnosis ;
+• *FR0017*: Send form by email diagnosis;<br>
                   Description : The user can send the response diagnostic questionnaire <br>
 
 <br>
