@@ -46,7 +46,7 @@ Os requisitos funcionais do sistema têm como meta:<br>
                   Descrição: O usuário poderá enviar as resposta do questionário de diagnóstico.<br>
 
 <br>
-*Versão:0.01*
+*Versão:0.02*
 <br>
 <hr>
 <br>
