@@ -10,30 +10,41 @@
 (Sommerville, Ian; Engenharia de Software, 2007, p. 80)<br>
 Os requisitos funcionais do sistema têm como meta:<br>
 
-•	*RF001*: Configurar preferências por cores; 
-                 Descrição : O sistema deve permitir que o usuário configure o aplicativo de acordo com a sua preferência de cor.<br>
-•	*RF002*: Configurar preferências por fontes; 
+•	*RF001*: Efetuar login; 
+                 Descrição : O sistema deve permitir que o usuário realize o login.<br>
+•	*RF002*: Cadastrar usuário responsável; 
+                 Descrição: O sistema deve permitir que o usuário responsável realize o seu cadastro.<br>
+•	*RF003*: Cadastrar usuário dependente; 
+                 Descrição: O sistema deve permitir que o usuário responsável cadastre um (ou mais) usuário dependente.<br>
+•	*RF004*: Cancelar cadastro;
+                 Descrição: O sistema deve permitir que o usuário (responsável) possa cancelar seu cadastro e o de seus dependentes a qualquer momento. <br>
+•	*RF005*: Alterar cadastro; 
+                 Descrição: O sistema deve permitir que o usuário (responsável) possa alterar seu cadastro e o de seus dependentes a qualquer momento.<br>
+•	*RF006*: Configurar preferência por cores;
+                 Descrição : O sistema deve permitir que o usuário configure o aplicativo de acordo com a sua preferência de cor. <br>
+•	*RF007*: Configurar preferência por fonte; 
                  Descrição: O usuário poderá selecionar a opção de fonte que mais lhe agradar.<br>
-•	*RF003*: Visualizar cartas do Fale Comigo; 
-                 Descrição: O usuário poderá visualizar todas as opções de cartas do módulo Fale Comigo.<br>
-•	*RF004*: Escolher carta do Fale Comigo;
+•	*RF008*: Visualizar cartas do Fale Comigo;
+                 Descrição: O usuário poderá visualizar todas as opções de cartas do módulo Fale Comigo. <br>
+•	*RF009*: Escolher carta do Fale Comigo;
                  Descrição: O usuário poderá escolher carta do Fale Comigo. <br>
-•	*RF005*: Visualizar Desafio Animal; 
-                 Descrição: O usuário poderá visualizar a tela de opções de figuras do Desafio Animal.<br>
-•	*RF006*: Responder Desafio Animal;
-                 Descrição : O usuário poderá responder ao Desafio Animal. <br>
-•	*RF007*: Visualizar Jogo da Memória; 
-                 Descrição: O usuário poderá visualizar a disposição de cartas do Jogo da Memória.<br>
-•	*RF008*: Escolher cartas do Jogo da Memória;
-                 Descrição: Desenvolvimento da partida do Jogo da Memória. <br>
-•	*RF009*: Integrar jogos e desafios com as redes sociais;
-                 Descrição: O sistema deve permitir que o usuário possa compartilhar seu status do jogo nas redes sociais. <br>
-•	*RF0010*: Preencher formulário de Diagnóstico; 
-                  Descrição: O sistema deve permitir que o usuário responda o formulário de diagnóstico.<br>
-•	*RF0011*: Enviar formulário de Diagnóstico;
-                  Descrição: O usuário poderá enviar as resposta do questionário de diagnóstico. <br>
-•	*RF0012*: Ler notícias no feed. 
+•	*RF0010*: Visualizar desafio Animal; 
+                  Descrição: Visualizar a tela de opções de figuras do Desafio Animal.<br>
+•	*RF0011*: Responder Desafio Animal;
+                  Descrição: O usuário poderá responder ao Desafio Animal. <br>
+•	*RF0012*: Visualizar Jogo da Memória; 
+                  Descrição: O usuário poderá visualizar a disposição de cartas do Jogo da Memória.<br>
+•	*RF0013*: Escolher cartas do Jogo da Memória;
+                  Descrição: Desenvolvimento da partida do Jogo da Memória.<br>
+•	*RF0014*: Integrar jogos e desafios com as redes sociais;
+                  Descrição: O sistema deve permitir que o usuário possa compartilhar seu status do jogo nas redes sociais.<br>
+•	*RF0015*: Ler notícias no feed;
                   Descrição: O usuário poderá ler notícias de sites relacionadas ao autismo.<br>
+•	*RF0016*: Preencher formulário de Diagnóstico;
+                  Descrição: sistema deve permitir que o usuário responda o formulário de diagnóstico.<b>
+•	*RF0017*: Enviar formulário de diagnóstico por e-mail;
+                  Descrição: O usuário poderá enviar as resposta do questionário de diagnóstico.<br>
+
 <br>
 *Versão:0.01*
 <br>
