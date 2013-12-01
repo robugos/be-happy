@@ -73,7 +73,7 @@ Os requisitos funcionais do sistema têm como meta:<br>
 <hr>
 
 <br>
-*Versão:0.01*
+*Versão:0.02*
 <br>
 <hr>
 <br>
