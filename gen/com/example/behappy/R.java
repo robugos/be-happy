@@ -31,9 +31,12 @@ public final class R {
         public static final int vermelho=0x7f020007;
     }
     public static final class id {
-        public static final int action_settings=0x7f09000a;
+        public static final int action_settings=0x7f090026;
+        public static final int bEnviarEmail=0x7f090025;
         public static final int btnDiagnostico=0x7f090009;
         public static final int btnNoticia=0x7f090008;
+        public static final int femail=0x7f090024;
+        public static final int fname=0x7f090023;
         public static final int ibtnAmarelo=0x7f090000;
         public static final int ibtnAzul=0x7f090001;
         public static final int ibtnDesafio=0x7f090006;
@@ -42,14 +45,42 @@ public final class R {
         public static final int ibtnVerde=0x7f090002;
         public static final int ibtnVermelho=0x7f090003;
         public static final int listaFonte=0x7f090004;
+        public static final int rbqn=0x7f09000c;
+        public static final int rbqy=0x7f09000b;
+        public static final int rgq1=0x7f09000a;
+        public static final int rgq10=0x7f090015;
+        public static final int rgq11=0x7f090016;
+        public static final int rgq12=0x7f090017;
+        public static final int rgq13=0x7f090018;
+        public static final int rgq14=0x7f090019;
+        public static final int rgq15=0x7f09001a;
+        public static final int rgq16=0x7f09001b;
+        public static final int rgq17=0x7f09001c;
+        public static final int rgq18=0x7f09001d;
+        public static final int rgq19=0x7f09001e;
+        public static final int rgq2=0x7f09000d;
+        public static final int rgq20=0x7f09001f;
+        public static final int rgq21=0x7f090020;
+        public static final int rgq22=0x7f090021;
+        public static final int rgq23=0x7f090022;
+        public static final int rgq3=0x7f09000e;
+        public static final int rgq4=0x7f09000f;
+        public static final int rgq5=0x7f090010;
+        public static final int rgq6=0x7f090011;
+        public static final int rgq7=0x7f090012;
+        public static final int rgq8=0x7f090013;
+        public static final int rgq9=0x7f090014;
     }
     public static final class layout {
-        public static final int activity_main=0x7f030000;
-        public static final int fonte=0x7f030001;
-        public static final int home=0x7f030002;
+        public static final int activity_mail_report=0x7f030000;
+        public static final int activity_main=0x7f030001;
+        public static final int fonte=0x7f030002;
+        public static final int home=0x7f030003;
+        public static final int report=0x7f030004;
     }
     public static final class menu {
-        public static final int main=0x7f080000;
+        public static final int mail_report=0x7f080000;
+        public static final int main=0x7f080001;
     }
     public static final class raw {
         public static final int test=0x7f040000;
@@ -66,10 +97,40 @@ public final class R {
         public static final int game=0x7f060009;
         public static final int hello_world=0x7f060002;
         public static final int home=0x7f06000e;
+        public static final int n=0x7f06002c;
         public static final int noticia=0x7f06000c;
+        public static final int q1=0x7f060014;
+        public static final int q10=0x7f06001d;
+        public static final int q11=0x7f06001e;
+        public static final int q12=0x7f06001f;
+        public static final int q13=0x7f060020;
+        public static final int q14=0x7f060021;
+        public static final int q15=0x7f060022;
+        public static final int q16=0x7f060023;
+        public static final int q17=0x7f060024;
+        public static final int q18=0x7f060025;
+        public static final int q19=0x7f060026;
+        public static final int q2=0x7f060015;
+        public static final int q20=0x7f060027;
+        public static final int q21=0x7f060028;
+        public static final int q22=0x7f060029;
+        public static final int q23=0x7f06002a;
+        public static final int q3=0x7f060016;
+        public static final int q4=0x7f060017;
+        public static final int q5=0x7f060018;
+        public static final int q6=0x7f060019;
+        public static final int q7=0x7f06001a;
+        public static final int q8=0x7f06001b;
+        public static final int q9=0x7f06001c;
+        public static final int report=0x7f060011;
+        public static final int report_email=0x7f06000f;
+        public static final int report_name=0x7f060010;
+        public static final int send=0x7f060012;
         public static final int sfonte=0x7f060007;
+        public static final int title_activity_mail_report=0x7f060013;
         public static final int verde=0x7f060004;
         public static final int vermelho=0x7f060006;
+        public static final int y=0x7f06002b;
     }
     public static final class style {
         /** 

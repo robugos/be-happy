@@ -22,12 +22,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity  android:name=".Fonte"
-               android:label="@string/fonte">         
-            </activity>
-            <activity  android:name=".Home"
-               android:label="@string/home">         
-            </activity>
+        <activity
+            android:name="com.example.behappy.Fonte"
+            android:label="@string/fonte" >
+        </activity>
+        <activity
+            android:name="com.example.behappy.Home"
+            android:label="@string/home" >
+        </activity>
+        <activity
+            android:name="com.example.behappy.MailReport"
+            android:label="@string/title_activity_mail_report" >
+        </activity>
     </application>
 
 </manifest>
