@@ -54,8 +54,8 @@ Os requisitos funcionais do sistema têm como meta:<br>
 <hr>
 
 <p align="justify">“Os requisitos não funcionais, como o nome sugere, são aqueles não diretamente relacionados às funções específicas fornecidas pelo sistema. Eles podem estar relacionados às propriedades emergentes do sistema, como confiabilidade, tempo de resposta e espaço de armazenamento. Como alternativa, eles podem definir restrições, como a capacidade dos dispositivos de E/S (entrada/saída) e as representações de dados usadas nas interfaces do sistema.”</p>
-<p>(Sommerville, Ian; Engenharia de Software, 2007, p. 82)<br>
-<p>Os requisitos não-funcionais do sistema têm como meta:<br>
+(Sommerville, Ian; Engenharia de Software, 2007, p. 82)<br>
+Os requisitos não-funcionais do sistema têm como meta:<br>
 
 •	*RNF001*: Durante a fase de beta-testes, a interface deve ser considerada amigável por 70% dos usuários envolvidos nos testes; <br>
 •	*RNF002*: O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com não mais que 5% do tempo com o sistema fora do ar; <br>
