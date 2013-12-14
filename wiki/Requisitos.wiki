@@ -42,7 +42,7 @@ Os requisitos funcionais do sistema têm como meta:<br>
                   Descrição: O usuário poderá ler notícias de sites relacionadas ao autismo.<br>
 •	*RF0016*: Preencher formulário de Diagnóstico;
                   Descrição: sistema deve permitir que o usuário responda o formulário de diagnóstico.<b>
-•	**RF0017**: Enviar formulário de diagnóstico por e-mail;
+•	*RF0017*: Enviar formulário de diagnóstico por e-mail;
                   Descrição: O usuário poderá enviar as resposta do questionário de diagnóstico.<br>
 
 <br>
