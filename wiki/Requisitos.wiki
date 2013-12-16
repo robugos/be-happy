@@ -41,7 +41,7 @@ Os requisitos funcionais do sistema têm como meta:<br>
 •	*RF0015*: Ler notícias no feed;
                   Descrição: O usuário poderá ler notícias de sites relacionadas ao autismo.<br>
 •	*RF0016*: Preencher formulário de Diagnóstico;
-                  Descrição: sistema deve permitir que o usuário responda o formulário de diagnóstico.<b>
+                  Descrição: sistema deve permitir que o usuário responda o formulário de diagnóstico.<br>
 •	*RF0017*: Enviar formulário de diagnóstico por e-mail;
                   Descrição: O usuário poderá enviar as resposta do questionário de diagnóstico.<br>
 
@@ -57,13 +57,13 @@ Os requisitos funcionais do sistema têm como meta:<br>
 (Sommerville, Ian; Engenharia de Software, 2007, p. 82)<br>
 Os requisitos não-funcionais do sistema têm como meta:<br>
 
-•	*RNF001*: Durante a fase de beta-testes, a interface deve ser considerada amigável por 70% dos usuários envolvidos nos testes; <br>
-•	*RNF002*: O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com não mais que 5% do tempo com o sistema fora do ar; <br>
-•	*RNF003*: A linguagem de programação usada como padrão deve ser o JAVA; <br>
-•	*RNF004*: A linguagem de interface deve ser o XML; <br>
-•	*RNF005*: A linguagem para conexão remota será o PHP; <br>
-•	*RNF006*: O script do banco será o SQL, relacionado ao SqL Lite, para o banco local. E para o remoto o MySQL Work Branch.; <br>
-•	*RNF007*: O sistema será arquitetado de forma flexível seguindo a arquitetura SOA. <br>
+•	*RNF001*: Durante a fase de beta-testes, a interface deve ser considerada amigável por 70% dos usuários envolvidos nos testes;<br>
+•	*RNF002*: O sistema deve estar disponível 24 horas por dia, 7 dias por semana, com não mais que 5% do tempo com o sistema fora do ar;<br>
+•	*RNF003*: A linguagem de programação usada como padrão deve ser o JAVA;<br>
+•	*RNF004*: A linguagem de interface deve ser o XML;<br>
+•	*RNF005*: A linguagem para conexão remota será o PHP;<br>
+•	*RNF006*: O script do banco será o SQL, relacionado ao SqL Lite, para o banco local. E para o remoto o MySQL Work Branch.;<br>
+•	*RNF007*: O sistema será arquitetado de forma flexível seguindo a arquitetura SOA.<br>
 
 *Versão:0.01*
 <br>
