@@ -44,9 +44,11 @@ Os requisitos funcionais do sistema têm como meta:<br>
                   Descrição: sistema deve permitir que o usuário responda o formulário de diagnóstico.<br>
 •	*RF0017*: Enviar formulário de diagnóstico por e-mail;
                   Descrição: O usuário poderá enviar as resposta do questionário de diagnóstico.<br>
+•	*RF0018*: Adaptar módulos a experiência do usuário;
+                  Descrição: Os módulos da aplicação se adaptaram a experiência do usuário logado.<br>
 
 <br>
-*Versão:0.02*
+*Versão:0.03*
 <br>
 <hr>
 <br>
