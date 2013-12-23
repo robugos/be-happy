@@ -11,6 +11,8 @@
 <hr>
 <a href="http://scrumy.com/be-happy!-Sprint1">Interaction 1st</a> <br>
 <a href="https://drive.google.com/file/d/0B5hIXVRKD54qb194UzJ0OHhOSFFBa19wWTBIOTJablkxblZJ/edit?usp=sharing">Interaction 1st - Detailing</a> <br>
+<a href="http://scrumy.com/be-happy!-Sprint2">Interaction 2nd</a> <br>
+<a href="https://docs.google.com/document/d/1xt22lCvEgG3mlEs5owe19EvEFv_bZEU3wcIw1_lg8Zc/edit?usp=sharing">Interaction 2nd - Detailing</a> <br>
 <br>
 <hr>
 
