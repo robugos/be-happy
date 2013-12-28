@@ -2,4 +2,4 @@
 
 
 
-<wiki:gadget url="http://hosting.gmodules.com/ig/gadgets/file/114106773607558272009/share.xml" height="200" border="0" /> 
+<wiki:gadget url="http://hosting.gmodules.com/ig/gadgets/file/114106773607558272009/share.xml" up_url="https%3A%2F%2Fcode.google.com%2Fp%2Fbe-happy%2F&amp" height="200" border="0" /> 
