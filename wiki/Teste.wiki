@@ -2,6 +2,6 @@
 
 
 
-<wiki:gadget url="http://hosting.gmodules.com/ig/gadgets/file/114106773607558272009/share.xml&amp" up_url="https%3A%2F%2Fcode.google.com%2Fp%2Fbe-happy%2F&amp" height="200" border="0" /> 
+<wiki:gadget url="http://hosting.gmodules.com/ig/gadgets/file/114106773607558272009/share.xml" up_url="https%3A%2F%2Fcode.google.com%2Fp%2Fbe-happy%2F&amp" height="200" border="0" /> 
 
 <script src="//www.gmodules.com/ig/ifr?url=http://hosting.gmodules.com/ig/gadgets/file/114106773607558272009/share.xml&amp;up_bgColor=%23FFFFFF&amp;up_url=https%3A%2F%2Fcode.google.com%2Fp%2Fbe-happy%2F&amp;synd=open&amp;w=470&amp;h=60&amp;title=Share&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
