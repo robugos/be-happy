@@ -1,4 +1,1 @@
 *Página voltada para testes de novas funcionalidades!*
-
-
-<wiki:gadget url="http://hosting.gmodules.com/ig/gadgets/file/104429601576291809035/facebook4.xml" height="200" width="200" border="0" /> 
