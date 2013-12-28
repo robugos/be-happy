@@ -1,6 +1,4 @@
 *Página voltada para testes de novas funcionalidades!*
 
 
-<wiki:gadget url="http://hosting.gmodules.com/ig/gadgets/file/104429601576291809035/facebook4.xml" height="200" border="0" /> 
-
-<script src="//www.gmodules.com/ig/ifr?url=http://hosting.gmodules.com/ig/gadgets/file/104429601576291809035/facebook4.xml&amp;synd=open&amp;w=320&amp;h=590&amp;title=Facebook+Connection&amp;border=%23ffffff%7C3px%2C1px+solid+%23999999&amp;output=js"></script>
+<wiki:gadget url="http://hosting.gmodules.com/ig/gadgets/file/104429601576291809035/facebook4.xml" height="200" width="200" border="0" /> 
