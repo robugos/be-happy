@@ -19,7 +19,7 @@
 
 <H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Modelo Ágil</p></font></b></H2>
 <hr>
-<H3><a href="">Agile Development - Spread Sheet</a> <br></H3>
+<a href="">Agile Development - Spread Sheet</a> <br>
 <br>
 <a href="">3º Sprint</a> <br>
 <br>
