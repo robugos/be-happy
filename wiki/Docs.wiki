@@ -33,6 +33,12 @@
 <a href="https://drive.google.com/file/d/0B5hIXVRKD54qcFZ6c2lOMUdUaWs/edit?usp=sharing">Estratégia - SOA</a> <br>
 <a href="https://drive.google.com/file/d/0B5hIXVRKD54qeDJHOHZ0d1VQX3M/edit?usp=sharing">Plano de teste</a> <br>
 <a href="https://drive.google.com/file/d/0B5hIXVRKD54qRkN2TUk0MmxqdjA/edit?usp=sharing">Visão e Escopo - SOA</a> <br>
+<a href="https://drive.google.com/file/d/0B5hIXVRKD54qUkZOREdkLWMyYUU/edit?usp=sharing">Declaração de Aplicabilidade - SOA</a> <br>
+<a href="https://drive.google.com/file/d/0B5hIXVRKD54qUFh5cG1lT0I1bjQ/edit?usp=sharing">Modelo de Implantação</a> <br>
+<a href="https://drive.google.com/file/d/0B5hIXVRKD54qemIzUDdCRGUzb28/edit?usp=sharing">Modelo de uso - SOA</a> <br>
+<a href="https://drive.google.com/file/d/0B5hIXVRKD54qMlFWZkl5blpiOVU/edit?usp=sharing">Plano de Garantia da Qualidade</a> <br>
+<a href="https://drive.google.com/file/d/0B5hIXVRKD54qb1FIU25TemtoWk0/edit?usp=sharing">Plano do Projeto</a> <br>
+<a href="https://drive.google.com/file/d/0B5hIXVRKD54qNGxEZGNOOEJUWmM/edit?usp=sharing">Resultados de Teste</a> <br>
 <br>
 <hr>
 
