@@ -24,8 +24,8 @@
 <a href="https://code.google.com/p/be-happy/wiki/SCRUM">SCRUM (Gerenciamento de Metodologias)</a> <br>
 <a href="https://drive.google.com/file/d/0B5hIXVRKD54qVmdQOFdES0dFUmM/edit?usp=sharing">Proposta Inicial</a> <br>
 <a href="https://docs.google.com/document/d/1vFCmkpD9Z5bNEJWWLBH7BesQvn7vk5nJfaQf3StyV5E/edit?usp=sharing">Questionário de empreendedorismo</a> <br>
-<a href="https://docs.google.com/document/d/1PUXOjUvgdLiVUKU0uPY492zzDN2THLQ_jqu2PruWRGs/">Lógica para formulário de Diagnóstico</a> <br>
-<a href="https://drive.google.com/file/d/0B5hIXVRKD54qS3A1dmNreVM5RFk/edit?usp=sharing">Plano de Gerência de Configuração de Software</a> <br>
+<a href="https://drive.google.com/file/d/0B5hIXVRKD54qS3A1dmNreVM5RFk/edit?usp=sharing">Lógica para formulário de Diagnóstico</a> <br>
+<a href="https://drive.google.com/file/d/0B5hIXVRKD54qdUh2aE5YQWdvSFk/edit?usp=sharing">Plano de Gerência de Configuração de Software</a> <br>
 <br>
 <hr>
 <H2 TEXT-ALIGN='CENTER'><b><FONT FACE="TIMES" SIZE="1"><p align="center">Documentos SOAP</p></font></b></H2>
